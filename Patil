@@ -1,1 +1,12 @@
-welcome to git hub
+// check whether the units are greater than 300
+
+else if(units > 300)
+
+{
+
+billToPay = 100 * 1.20 + 200 * 2 + (units - 300) * 3;
+}
+
+System.out.println("The electricity bill for " +units+ " is: " + billToPay);
+}
+}
