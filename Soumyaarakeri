@@ -1,0 +1,11 @@
+// check whether units are less than 100
+if (units<100)
+{
+  Bill to pay=units*1.20;
+}
+
+// check wheat units are less than 300
+else if (units<300)
+{
+Bill to pay=100*1.20+(units-100)*2;
+}
