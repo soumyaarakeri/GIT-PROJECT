@@ -1,0 +1,7 @@
+import java.util.*
+class ElectricityBillExample2
+{
+public static void main(String args [])
+{
+int units;
+double billTopay = 0;
